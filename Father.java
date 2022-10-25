@@ -2,10 +2,10 @@ package fourthweek;
 
 public class Father
 {
-    String name="Hamdullah";
+    String name="khan Mohammad";
     public void showName(String name)
     {
-        if(name.equals("Hamdullah"))
+        if(name.equals("khan"))
             System.out.println(name);
     }
     public int showName(int name)
@@ -14,12 +14,12 @@ public class Father
     }
     public void show()
     {
-        System.out.println("Hi I am Hamdullah Hamdard");
+        System.out.println("Hi someone");
     }
 }
 class Child extends Father
 {
-    String name="Hamdullah";
+    String name="khan";
     public void show()
     {
         super.show();
