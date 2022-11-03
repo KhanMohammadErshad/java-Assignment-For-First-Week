@@ -10,9 +10,9 @@ public class Hashemap
             HashMap<String, String> hashMap = new HashMap<>();
 
         // Adding values to HashMap as ("keys", "values")
-        hashMap.put("Name", "Hamdullah");
-        hashMap.put("Father Name", "Mohammad Omer");
-        hashMap.put("Last Name", "Hamdard");
+        hashMap.put("Name", "khan");
+        hashMap.put("Father Name", "mohammad sadiq");
+        hashMap.put("Last Name", "jan");
         hashMap.put("Faculty", "Computer Science");
 
         System.out.println("Testing .isEmpty() method");
