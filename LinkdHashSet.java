@@ -14,9 +14,9 @@ public class LinkdHashSet
     public static void main(String[] args)
     {
         LinkedHashSet<Student> student = new LinkedHashSet<>();
-        student.add(new Student(1,"Hamdullah"));
-        student.add(new Student(3,"Hamdard"));
-        student.add(new Student(2,"Khanoooo"));
+        student.add(new Student(1,"khan"));
+        student.add(new Student(3,"hamraz"));
+        student.add(new Student(2,"Khan mohammad"));
 
         // return the size of array
         System.out.println(student.size());
