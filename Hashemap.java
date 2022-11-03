@@ -10,8 +10,8 @@ public class Hashemap
             HashMap<String, String> hashMap = new HashMap<>();
 
         // Adding values to HashMap as ("keys", "values")
-        hashMap.put("Name", "Hamdullah");
-        hashMap.put("Father Name", "Mohammad Omer");
+        hashMap.put("Name", "khan mohammad");
+        hashMap.put("Father Name", "Mohammad sadiq");
         hashMap.put("Last Name", "Hamdard");
         hashMap.put("Faculty", "Computer Science");
 
