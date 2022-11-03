@@ -12,8 +12,8 @@ public class LinkedeHashMap
         // Adding entries in Map
         // using put() method
         lhm.put("one", "Java");
-        lhm.put("two", "Python");
-        lhm.put("four", "C Language");
+        lhm.put("two", "html");
+        lhm.put("four", "javascript");
 
         // Printing all entries inside Map
         System.out.println(lhm);
